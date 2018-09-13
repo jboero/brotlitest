@@ -19,4 +19,4 @@ $ xdg-open *results.html
 
 
 ## Example
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/jboero/brotlitest/sample.png "Snapshot of example chart isn't interactive")

@@ -19,4 +19,4 @@ $ xdg-open *results.html
 
 
 ## Example
-![alt text](https://github.com/jboero/brotlitest/sample.png "Snapshot of example chart isn't interactive")
+![alt text](https://github.com/jboero/brotlitest/blob/master/sample.png "Snapshot of example chart isn't interactive")

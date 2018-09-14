@@ -1,5 +1,5 @@
-# Brotli Test
-This repo contains some basic scripts to test any file comparing Gzip and Brotli across time and compression strength.  Output is dumped to an HTML result and plotted with Google Charts.
+# Brotli Compare
+This repo contains some basic scripts to test any file comparing Gzip and Brotli across time and compression strength.  Output is dumped to an HTML result and plotted with Google Charts.  It can be easily extended or changed to compare other compression engines.
 
 ## Usage
 ```
@@ -19,4 +19,4 @@ $ xdg-open *results.html
 
 
 ## Example
-![alt text](https://github.com/jboero/brotlitest/blob/master/sample.png "Snapshot of example chart isn't interactive")
+![alt text](sample.png "Snapshot of example chart isn't interactive")

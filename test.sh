@@ -97,5 +97,8 @@ $dataset
       chart.draw(data, options);
     }
 </script>
+<body><h1>Brotli performance chart for $1 original size $origsize bytes.</h1>
 <div id="chart_div"></div>
+</body>
+</html>
 EOF
